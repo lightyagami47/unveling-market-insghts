@@ -1,4 +1,4 @@
-# unveling-market-insghts
+# Unveiling Market Insights: Analysing Spending Behaviour And Identifying Opportunities For Growth
 Dashboard Public Link - https://public.tableau.com/app/profile/light.yagami3465/viz/WholesalerCustomerAnalaysis01/Dashboard2?publish=yes
 Story - https://public.tableau.com/app/profile/light.yagami3465/viz/WholesalerCustomerAnalaysis2/Story1?publish=yes
 Video demonstration Link - https://drive.google.com/file/d/1XDKu9aJQrSpiJBoShtsGG1FC8I7ftEfo/view?usp=drive_link
